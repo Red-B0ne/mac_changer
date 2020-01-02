@@ -5,7 +5,7 @@ A python mac address changer made using pycharm, this is mainly a test project u
   - Python 2 or 3 depending on which script you want to use
   - Linux system. This system was designed on and built for Kali Linux but should work with any system that can use the ifconfig commands
 
-## Install [Using git](https://github.com/Red-B0ne/mac_changer.git)
+## Install [Using git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   - Run this command on your Linux terminal: git clone https://github.com/Red-B0ne/mac_changer.git
  
 ## Usage
